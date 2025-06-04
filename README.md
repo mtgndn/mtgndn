@@ -2,7 +2,7 @@
 
 ## 💻 Yazılım Geliştirici | 🛡️ Siber Güvenlik Uzmanı
 
-İzmir merkezli bir yazılım geliştirici ve siber güvenlik uzmanıyım. Mehmet Akif Ersoy Üniversitesi'nden mezun oldum ve 500'den fazla profesyonel bağlantıya sahibim. Yazılım geliştirme ve siber güvenlik alanlarında tutkulu bir şekilde çalışıyor, sürekli öğrenmeye ve kendimi geliştirmeye önem veriyorum.
+İzmir merkezli bir yazılım geliştirici ve siber güvenlik uzmanıyım. Mehmet Akif Ersoy Üniversitesi Bilişim Sistemleri ve Teknolojileri bölümü öğrencisiyim ve 500'den fazla profesyonel bağlantıya sahibim. Yazılım geliştirme ve siber güvenlik alanlarında tutkulu bir şekilde çalışıyor, sürekli öğrenmeye ve kendimi geliştirmeye önem veriyorum.
 
 ---
 

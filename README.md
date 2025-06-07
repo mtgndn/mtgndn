@@ -31,12 +31,6 @@
 
 ---
 
-### 🌟 Öne Çıkan Projelerim
-
-- [🔐 Güvenli Web Uygulaması](https://github.com/mtgndn/guvenli-web-uygulamasi): OWASP standartlarına uygun olarak geliştirilmiş güvenli bir web uygulaması.
-- [🛠️ Otomatik Güvenlik Test Aracı](https://github.com/mtgndn/guvenlik-test-araci): Web uygulamaları için otomatik güvenlik testleri gerçekleştiren bir araç.
-
----
 
 ### 🎯 Hedeflerim
 

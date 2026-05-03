@@ -93,7 +93,7 @@ A lightweight customer relationship management system designed for small busines
 ## 📬 Contact
 
 📧 **Email:** [mtgndn@gmail.com](mailto:mtgndn@gmail.com)
-💼 **LinkedIn:** https://www.linkedin.com/in/metehan-günaydın-361514241/
+💼 **LinkedIn:** [(https://www.linkedin.com/in/mtgndn/)]
 
 ---
 

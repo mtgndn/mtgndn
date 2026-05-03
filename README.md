@@ -1,48 +1,104 @@
-# 👋 Hi, I'm Metehan Günaydın
+# 🚀 Metehan Günaydın
 
-## 💻 Web Developer | 🛡️ Cybersecurity Enthusiast | 🎯 Freelance Candidate
+<div align="center">
 
-I'm a web developer based in Izmir, Turkey. Currently studying at Mehmet Akif Ersoy University. I build fast, modern, and secure web applications using technologies like React, Next.js, and Tailwind CSS. I'm also passionate about cybersecurity and follow secure coding practices.
+### 💻 Web Developer • 🛡️ Cybersecurity Enthusiast • ⚡ Building Modern Experiences
 
----
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Modern+Web+Apps;Secure+Coding;Freelancer+in+Progress;Always+Learning" />
 
-### 🚀 Technologies I Use and Love
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+</div>
 
 ---
 
-### 🌟 Featured Projects
+## 👨‍💻 About Me
 
-* [💼 Kubitabi Portfolio](https://github.com/mtgndn/kubitabi-portfolio)
-  A modern and elegant portfolio site for an accessory store, built with Next.js and Tailwind CSS. Includes an admin panel for content management.
+I'm a passionate **Web Developer** focused on building fast, scalable, and visually striking web applications.
+Currently studying at **Mehmet Akif Ersoy University** and constantly improving myself in both **frontend engineering** and **cybersecurity**.
 
-* [🎮 Oyun Kutusu](https://github.com/mtgndn/oyun-kutusu)
-  A fun collection of mini games in a single app. Built with React and designed to be responsive and user-friendly.
-
-* [🎬 Netflix Clone](https://github.com/mtgndn/netflix-clone)
-  A full-screen movie browser interface using the TMDB API. Includes category-based listings, detailed pages, and a video player.
+🔹 I care about **performance + design + security**
+🔹 I build real-world projects, not just tutorials
+🔹 Goal: Becoming a **high-level freelance developer & security-aware engineer**
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Tech Stack
 
-![Metehan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtgndn\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtgndn\&layout=compact\&theme=tokyonight)
+<div align="center">
+
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge\&logo=next.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge\&logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge\&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge\&logo=mongodb)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge\&logo=javascript)
+![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge\&logo=linux)
+
+</div>
 
 ---
 
-### 📫 Get in Touch
+## 🌟 Featured Projects
 
-* 💼 [LinkedIn Profile](https://www.linkedin.com/in/metehan-günaydın-361514241/)
-* 📧 Email: [mtgndn@gmail.com](mailto:mtgndn@gmail.com)
+### 📡 API Monitoring System
+
+🔗 https://github.com/mtgndn/api-monitoring-system
+
+A real-time API monitoring and alert system designed to track uptime, performance, and failures.
+Built to simulate production-level monitoring tools.
+
+✔ Real-time status tracking
+✔ Error logging & response analysis
+✔ Scalable architecture
+✔ Developer-focused dashboard
 
 ---
 
-> “I’m here to build clean, functional, and secure web experiences.”
+### 🧠 MetaForge
+
+🔗 https://github.com/mtgndn/metaforge
+
+An AI-powered content and idea generation platform built for creators and developers.
+Focused on productivity, automation, and creative workflows.
+
+✔ AI-based content generation
+✔ Prompt-driven workflow system
+✔ Modern UI with fast interactions
+✔ Scalable SaaS-ready structure
+
+---
+
+### 📊 Mini CRM
+
+🔗 https://github.com/mtgndn/mini-crm
+
+A lightweight customer relationship management system designed for small businesses and freelancers.
+
+✔ Client & task management
+✔ Clean dashboard interface
+✔ CRUD operations with structured data
+✔ Practical real-world use case
+
+---
+
+
+## 🎯 Current Focus
+
+* ⚡ Advanced **Next.js projects**
+* 🔐 Secure coding & **cybersecurity fundamentals**
+* 💼 Building a strong **freelance portfolio**
+* 🧩 Real-world SaaS & dashboard applications
+
+---
+
+## 📬 Contact
+
+📧 **Email:** [mtgndn@gmail.com](mailto:mtgndn@gmail.com)
+💼 **LinkedIn:** https://www.linkedin.com/in/metehan-günaydın-361514241/
+
+---
+
+<div align="center">
+
+### ⚡ “Clean Code. Real Projects. Secure Systems.”
+
+</div>
